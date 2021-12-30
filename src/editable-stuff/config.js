@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Marcel Ochs.",
-  resume: "cv.pdf",
+  resume: "resume.pdf",
 };
 
 // PROJECTS SECTION
