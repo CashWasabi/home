@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Marcel Ochs.",
-  resume: "resume.pdf",
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
